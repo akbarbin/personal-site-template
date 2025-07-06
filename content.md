@@ -14,7 +14,8 @@ Brand color: #e67e22
 
 ### Summary
 
-I build efficient, maintainable, and business-focused applications using Ruby on Rails. With clean code and a problem-solving mindset, I deliver scalable solutions for real-world challenges.
+I build efficient and maintainable web applications tailored to business needs.
+With clean code and a problem-solving mindset, I deliver scalable solutions that adapt to change.
 
 ### Sample posts
 
