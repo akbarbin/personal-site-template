@@ -31,6 +31,17 @@ Post 2: Scaling a Rails App Without Overengineering
 - Category: Principles and Programming
 - Content: Not every app needs microservices from day one. In this post, I walk through simple, proven ways to scale a Ruby on Rails app by improving database queries, background jobs, and code structure — without adding unnecessary complexity...
 
+### Content by area of focus:
+
+Algorithm
+DevOps
+Open source
+Programming
+Principles
+Security
+Testing
+Tools
+
 ### Contact information
 
 Address: Jakarta, Indonesia 11420

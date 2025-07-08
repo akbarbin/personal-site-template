@@ -163,10 +163,6 @@
   margin-bottom: 3.2rem;
 }
 
-.article-img {
-  width: 100%;
-}
-
 .article-attributes {
   list-style: none;
   display: flex;
@@ -184,5 +180,34 @@
 .article-icon {
   width: 2.4rem;
   height: 2.4rem;
+  color: #e67e22;
+}
+
+.article-img {
+  width: 100%;
+}
+
+.all-articles {
+  text-align: center;
+  font-size: 1.8rem;
+}
+
+.list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 1.6rem;
+}
+
+.list-item {
+  font-size: 1.8rem;
+  display: flex;
+  gap: 1.6rem;
+  align-items: center;
+}
+
+.list-icon {
+  width: 3rem;
+  height: 3rem;
   color: #e67e22;
 }
