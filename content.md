@@ -21,20 +21,15 @@ With clean code and a problem-solving mindset, I deliver scalable solutions that
 
 **Sharing is helping others**
 
-Post 1: [Menyongsong Era Kecerdasaran Buatan bagi Pengembang Perangkat Lunak (Web)](https://akbarbiin.blogspot.com/2025/06/mise-untuk-kelola-multi-bahasa.html)
+Post 1:
 
-- Category: Article
-- Content: Jakarta, tanggal 7 Mei 2025 digunakan untuk menulis artikel tentang pandangan dalam menentukan posisi sebagai pengembang perangkat lunak berbasis web terhadap laju pertumbuhan kecerdasan buatan atau Artificial Intelligent (AI). Web diangkat sebagai topik berdasarkan pengalaman penulis yang bekerja lebih dari dari 11 tahun berkerja sebagai pengembang web menggunakan Ruby on Rails...
+- Category: Programming
+- Content: Writing clean code isn't just about aesthetics it's about building software that's easy to read, maintain, and grow. In this article, I share practical tips and real-world reasons why clean code should be part of every developer's mindset...
 
-Post 2: [Panduan Instalasi Ruby on Rails pada Windows 10](https://akbarbiin.blogspot.com/2025/06/panduan-instalasi-ruby-on-rails-pada.html)
+Post 2: Scaling a Rails App Without Overengineering
 
-- Category: Article
-- Content: Dalam rangkaian membangun web, terdapat bahasa pemrograman dan kerangka kerja yang perlu dipersiapkan. Bahasa pemrograman yang akan dipilih pada tulisan ini adalah Ruby dan Rails sebagai kerangka kerja dalam membangun web pada sistem operasi Windows 10. Untuk mendapatkan keunggulan kerangka kerja Ruby on Rails, diharapkan untuk menjalankannya pada lingkungan Linux. Windows Subsystem for Linux (WSL)...
-
-Post 3: [Mise untuk Kelola Multi Bahasa Pemrograman dan Peralatan Pendukung](https://akbarbiin.blogspot.com/2025/06/mise-untuk-kelola-multi-bahasa.html)
-
-- Category: Article
-- Content: Dalam membangun perangkat lunak berbasis web, terdapat tahapan untuk menyetel peralatan sebelum tahapan pengembangan dimulai. Penyetelan awal dilakukan pada lingkungan pengembangan yang bisa disebut komputer lokal. Peralatan yang dibutuhkan dapat berupa bahasa pemrograman, alat analisis kode, alat penerapan ke lingkungan produksi dan lain sebagainya. Pada tahapan persiapan ini dapat menguras waktu dan pikiran...
+- Category: Principles and Programming
+- Content: Not every app needs microservices from day one. In this post, I walk through simple, proven ways to scale a Ruby on Rails app by improving database queries, background jobs, and code structure — without adding unnecessary complexity...
 
 ### Contact information
 
